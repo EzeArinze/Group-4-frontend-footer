@@ -51,9 +51,9 @@ The Footer component follows a simple structure:
 
 ## React Icon Implimentation:
 
-- The Footer component utilizes the react-icons library to import and display icons for navigation links and interaction elements. Icons are imported as components and integrated within the Footer component for seamless rendering.
+The Footer component utilizes the react-icons library to import and display icons for navigation links and interaction elements. Icons are imported as components and integrated within the Footer component for seamless rendering.
 
-### Example of how to use/import react icons into the Footer component:
+### To import react icons into the Footer component:
 
     import React from 'react';
     import { FaHome, FaSearch, FaBookmark, FaUser } from 'react-icons/fa'; // Importing required icons from react-icons/fa
