@@ -67,4 +67,4 @@ Once installed and imported, you can use the Footer component within your React 
 
 ## flow diagram illustration of component relationship between the Footer component and the rest of the application:
 
-![flowdiagram!](https://drive.google.com/file/d/13tddI2SAJAZWDDB5TKuC6hQ_EJX5TQCK/view?usp=drive_link)
+![flowdiagram!](Beige Nude Business Organization Chart.jpg)
