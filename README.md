@@ -8,12 +8,12 @@ The Footer component is designed to be a reusable component that provides essent
 
 For our icons and link (navigation link for the footer), we need to install two dependencies, After installation then we import then into our component
 
-### install
+Two dependencies to install:
 
 - npm install react-router-dom
 - npm install react-icons
 
-### Import
+Two dependencies to we import:
 
 - import React from 'react';
 - import Footer from './Footer';
@@ -86,7 +86,6 @@ Once installed and imported, you can use the Footer component within your React 
 
 ## Code Snippet for our footer components:
 
-    Footer.js
     import React from 'react';
     import { Link } from 'react-router-dom'; // Importing Link component from React Router for navigation
     import { FaHome, FaSearch, FaBookmark, FaUser } from 'react-icons/fa'; // Importing required icons from react-icons/fa
@@ -126,7 +125,7 @@ Once installed and imported, you can use the Footer component within your React 
 
 ## Icons used:
 
-<FaHome /> for the "Home" link.
-<FaSearch /> for the "Search" link.
-<FaBookmark /> for the "Save/Bookmark" link.
-<FaUser /> for the "Profile" link.
+1. <FaHome /> for the "Home" link.
+2. <FaSearch /> for the "Search" link.
+3. <FaBookmark /> for the "Save/Bookmark" link.
+4. <FaUser /> for the "Profile" link.
