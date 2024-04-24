@@ -44,7 +44,6 @@ Once installed and imported, we can use the Footer component within your React a
 ## Component Structure
 
 - The Footer component follows a simple structure:
-
 - Footer: Parent component responsible for rendering the footer section.
 - Navigation Links: Provides links to various sections of the application such as Home, Blog, Save/Bookmark, Profile/User. etc.
 - Blog Button: Represents a specific action within the app, allowing users to access Blog post section.
