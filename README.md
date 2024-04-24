@@ -64,11 +64,11 @@ The Footer component follows a simple structure:
 
 ### Diagram:
 
-- The "App" represents the overall structure of the application.
-- The Header, Main Content and footer components representing other sections of the application.
-- The Main Section contains the primary content of the application.
-- The Footer component is located at the bottom of the application layout.
-- Each component is interconnected, with the Footer being a part of the overall layout and providing navigation links and interaction to the user.
+1. The App represents the overall structure of the application.
+2. The Header, Main Content and footer components representing other sections of the application.
+3. The Main Section contains the primary content of the application.
+4. The Footer component is located at the bottom of the application layout.
+   Each component is interconnected, with the Footer being a part of the overall layout and providing navigation links and interaction to the user.
 
 ## Code Snippet for our footer components:
 
