@@ -13,7 +13,7 @@ Two dependencies to install:
 - npm install react-router-dom
 - npm install react-icons
 
-Two dependencies to we import:
+Two dependencies that we import:
 
 - import React from 'react';
 - import Footer from './Footer';
@@ -21,9 +21,9 @@ Two dependencies to we import:
 ## Importing the Footer component into your project:
 
 - import Footer from './Footer'; into the App.jsx Component.
-- Place the <Footer /> component at the bottom of your application layout.
+- Place the Footer component at the bottom of your application layout.
 
-Once installed and imported, you can use the Footer component within your React application by simply rendering it as part of your layout. The component automatically provides navigation links and interaction elements at the bottom of the application.
+Once installed and imported, we can use the Footer component within your React application by simply rendering it as part of your layout. The component automatically provides navigation links and interaction elements at the bottom of the application.
 
 ## Code snippet:
 
@@ -125,7 +125,7 @@ Once installed and imported, you can use the Footer component within your React 
 
 ## Icons used:
 
-1. <FaHome /> for the "Home" link.
-2. <FaSearch /> for the "Search" link.
-3. <FaBookmark /> for the "Save/Bookmark" link.
-4. <FaUser /> for the "Profile" link.
+1. FaHome for the "Home" link.
+2. FaSearch for the "Search" link.
+3. FaBookmark for the "Save/Bookmark" link.
+4. FaUser for the "Profile" link.
